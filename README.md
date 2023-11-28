@@ -52,32 +52,28 @@ Futuramente
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+[![SPRINT 1](https://img.youtube.com/vi/_G3yX93YZpJTbK1lG/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
 </p>
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+[![SPRINT 1](https://img.youtube.com/vi/N8KwG_Bz-2E7PTQj/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
 </p>
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+[![SPRINT 1](https://img.youtube.com/vi/uMi11P8u7F_Grkwp/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
 </p>
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+[![SPRINT 1](https://img.youtube.com/vi/cPKUML1not0F2ldo/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
