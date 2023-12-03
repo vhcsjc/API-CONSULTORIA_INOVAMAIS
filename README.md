@@ -1,7 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
+# Aprendizado por Projeto Integrado (API)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -22,22 +19,17 @@ Projeto pedagógico que tem como objetivo prestar um serviço de consultaria à 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 24/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  10/10/2023| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
-> Possíveis status: a fazer, em progresso e concluido
+Sprint | Previsão | Status|
+|------|--------|------|
+|Kick Off | 01/09/2023 | concluido| 
+|01 | 24/09/2023 | concluido| 
+|02|  15/10/2023| concluido |
+|03|  05/11/2023 | concluido|
+|04| 26/11/2023 |Concluido |
 
 # Micro Certificações
-Futuramente
-
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN"/>
 </p>
 
 # Equipe
@@ -46,109 +38,115 @@ Futuramente
  <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/SLA.png" width="100%"/>
 </p>
 
+https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.10.jpeg
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+Este trabalho tem como objetivo analisar a estrutura e organização da Doce Sabor, evidenciando possíveis desacertos encontrados na organização e propor soluções e melhorias para o negócio.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/_G3yX93YZpJTbK1lG/0.jpg)](https://youtu.be/_G3yX93YZpJTbK1lG)
-
+[![SPRINT 1](https://img.youtube.com/vi/t3_jEMl89MQ/0.jpg)](https://youtu.be/t3_jEMl89MQ)
 
 ## Sprint 2
-[![SPRINT 1](https://img.youtube.com/vi/N8KwG_Bz-2E7PTQj/0.jpg)](https://youtu.be/N8KwG_Bz-2E7PTQj)
-
+[![SPRINT 1](https://img.youtube.com/vi/1LTWUFDdDOk/0.jpg)](https://youtu.be/1LTWUFDdDOk)
 
 ## Sprint 3
-[![SPRINT 1](https://img.youtube.com/vi/uMi11P8u7F_Grkwp/0.jpg)](https://youtu.be/uMi11P8u7F_Grkwp)
-
+[![SPRINT 1](https://img.youtube.com/vi/tpr0y3Huueg/0.jpg)](https://youtu.be/tpr0y3Huueg)
 
 ## Sprint 4
-[![SPRINT 1](https://img.youtube.com/vi/cPKUML1not0F2ldo/0.jpg)](https://youtu.be/cPKUML1not0F2ldo)
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/udMpnunjRaQ/0.jpg)](https://youtu.be/udMpnunjRaQ)
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
-
+- Sprint 1
+  - Análise SWOT
+- Sprint 2
+  - Previsões de venda
+- Sprint 3
+  - Curva ABC
+- Sprint 4
+  - Canvas
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+- SWOT
+- Excel
+- Power Point
+- Power BI
+- BrainStorm
+- GitBub
+- Scrum
 
+### Mindset Digital
+Cultivamos um mindset digital que incentiva a busca por soluções criativas e inovadoras para os desafios empresariais, aproveitando plenamente as oportunidades oferecidas pelo cenário digital em constante evolução. Nossa abordagem valoriza o desenvolvimento da capacidade de ser ágil e flexível, permitindo-nos responder de forma rápida e eficaz às mudanças e oportunidades apresentadas no ambiente de negócios contemporâneo.
 # Cronograma das Sprints
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
+Aqui é possivel encontar o cronograma com as atividades desenvolvidas neste projeto.
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
+ <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.10.jpeg" width="80%"/>
 </p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
-
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
+ <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.11.jpeg" width="80%"/>
 </p>
 
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
-## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 1 
+- SWOT
+- Analise dos dados
+- Elaboração da apresentação
+  
+## Sprint 2 
+- Pesquisa sobre as previsões
+- Escolha da previsão: media movel
+- Desenvolvimento dos graficos
+- Analise dos resultados
+- Elaboração da apresentação
       
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 3 
+- Analise dos dados
+- Criação da curva
+- Analise dos resultados
+- Elaboração da apresentação
       
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 4 
+- Revisão da analise SWOT
+- Analise dos dados da empresa
+- Apresentação da nova ideia
+- Elaboração da apresentação
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
+ | Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Curva ABC | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Media movel | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Canvas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Swot | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 </details>
 
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
+ 
+| Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Resiliencia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Empatia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Flexibilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 
 </details>
 
@@ -156,6 +154,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Rafael Ramalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| Victor Hugo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| André Bastos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Levi Nobrega | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Luan Moreira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Rafael Henrique | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
