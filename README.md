@@ -38,7 +38,6 @@ Sprint | Previsão | Status|
  <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/SLA.png" width="100%"/>
 </p>
 
-https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.10.jpeg
 # Objetivo do Projeto
 Este trabalho tem como objetivo analisar a estrutura e organização da Doce Sabor, evidenciando possíveis desacertos encontrados na organização e propor soluções e melhorias para o negócio.
 
