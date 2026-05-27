@@ -21,11 +21,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | 01/09/2023 | concluido| 
-|01 | 24/09/2023 | concluido| 
-|02|  15/10/2023| concluido |
-|03|  05/11/2023 | concluido|
-|04| 26/11/2023 |Concluido |
+|01 | 10/02/2026 | concluido| 
+|02|  em andamento
 
 # Micro Certificações
 <p align="center">
@@ -35,7 +32,7 @@ Sprint | Previsão | Status|
 # Equipe
 
 <p align="center">
- <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/SLA.png" width="100%"/>
+ <img src="https://github.com/vhcsjc/API-grupo torre/blob/main/Sprint%201/imagem/SLA.png" width="100%"/>
 </p>
 
 # Objetivo do Projeto
@@ -44,29 +41,24 @@ Este trabalho tem como objetivo analisar a estrutura e organização da Doce Sab
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/t3_jEMl89MQ/0.jpg)](https://youtu.be/t3_jEMl89MQ)
 
 ## Sprint 2
-[![SPRINT 1](https://img.youtube.com/vi/1LTWUFDdDOk/0.jpg)](https://youtu.be/1LTWUFDdDOk)
 
 ## Sprint 3
-[![SPRINT 1](https://img.youtube.com/vi/tpr0y3Huueg/0.jpg)](https://youtu.be/tpr0y3Huueg)
 
 ## Sprint 4
-[![SPRINT 1](https://img.youtube.com/vi/udMpnunjRaQ/0.jpg)](https://youtu.be/udMpnunjRaQ)
 
 ## Tecnologias Utilizadas
 ### Produto 
 - Sprint 1
-  - Análise SWOT
+  - power bi excel
 - Sprint 2
-  - Previsões de venda
+  -power bi excel
 - Sprint 3
-  - Curva ABC
+ 
 - Sprint 4
-  - Canvas
+
 ### Tecnológias Específicas/Apoio
-- SWOT
 - Excel
 - Power Point
 - Power BI
@@ -92,28 +84,18 @@ Aqui é possivel encontar o cronograma com as atividades desenvolvidas neste pro
 </p>
 
 ## Sprint 1 
-- SWOT
 - Analise dos dados
 - Elaboração da apresentação
   
 ## Sprint 2 
-- Pesquisa sobre as previsões
-- Escolha da previsão: media movel
 - Desenvolvimento dos graficos
 - Analise dos resultados
 - Elaboração da apresentação
       
 ## Sprint 3 
-- Analise dos dados
-- Criação da curva
-- Analise dos resultados
-- Elaboração da apresentação
+
       
 ## Sprint 4 
-- Revisão da analise SWOT
-- Analise dos dados da empresa
-- Apresentação da nova ideia
-- Elaboração da apresentação
 
 
 # Competências desenvolvidas
@@ -126,11 +108,7 @@ Aqui é possivel encontar o cronograma com as atividades desenvolvidas neste pro
 | ---------------------- | ------------- |
 | Excel | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Power Point | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Curva ABC | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Media movel | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Canvas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Swot | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 </details>
 
 ## Soft Skill (saber comportamental)
@@ -153,9 +131,5 @@ Aqui é possivel encontar o cronograma com as atividades desenvolvidas neste pro
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Rafael Ramalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| Victor Hugo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| André Bastos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Levi Nobrega | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Luan Moreira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Rafael Henrique | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Rafael Ramalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub 
+|Team Member| Levi Nobrega | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge]
